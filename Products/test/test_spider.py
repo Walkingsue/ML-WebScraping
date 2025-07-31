@@ -1,5 +1,5 @@
 #from requests..api import head
-from asyncio.timeouts import timeout
+from asyncio import timeout
 import os  
 import requests
 import pytest
