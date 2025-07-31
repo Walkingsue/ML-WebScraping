@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[253],{24034:(s,_,c)=>{c.r(_),c.d(_,{default:()=>o});var e=c(89379),a=(c(96540),c(32485)),A=c.n(a),i=c(64238),n=c(74848);const o=s=>(0,n.jsx)(i.k,(0,e.A)((0,e.A)({},s),{},{className:A()("ui-search-icon ui-search-icon--chevron",s.className),viewBox:"0 0 9 14",iconId:"chevron"}))}}]);
+//# sourceMappingURL=sources-chevron.f9b8c212.js.map
